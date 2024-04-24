@@ -51,3 +51,12 @@ a{
 a:hover{
     color: #FDE55F;
 }
+td, th, table, tr,th, thead,tbody{
+    border: 5px solid white;
+    border-collapse: collapse;
+    margin: auto;
+}
+th{
+    background-color: #FDE55F;
+    color: black;
+}
